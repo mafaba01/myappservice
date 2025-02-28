@@ -1,0 +1,7 @@
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\myappservice
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\myappservice.dll
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\myappservice.deps.json
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\myappservice.runtimeconfig.json
+C:\Users\MARTIN-PC\source\repos\myappservice\myappservice\obj\Release\net8.0\linux-x64\PubTmp\Out\myappservice.pdb

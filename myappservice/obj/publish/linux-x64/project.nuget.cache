@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0HpiKBh/Uv8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARTIN-PC\\source\\repos\\myappservice\\myappservice\\myappservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARTIN-PC\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.11\\microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
